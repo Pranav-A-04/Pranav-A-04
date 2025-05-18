@@ -70,9 +70,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-A-04&layout=compact&theme=dark&hide_border=false" height="200" alt="Top Langs" />
-</div>
 
 ###
 
@@ -82,6 +79,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Pranav-A-04&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-A-04&layout=compact&theme=dark&hide_border=false" height="200" alt="Top Langs" />
 </div>
 
 ###
