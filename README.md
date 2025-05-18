@@ -70,6 +70,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-A-04&layout=compact&theme=dark&hide_border=false" height="200" alt="Top Langs" />
+</div>
 
 ###
 
