@@ -1,5 +1,8 @@
 
-<h1 align="center">Hey, I'm Pranav 👋</h1>
+<h1 align="center">
+  Hey, I'm Pranav
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="30" style="vertical-align: middle;" />
+</h1>
 
 ###
 
