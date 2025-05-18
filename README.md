@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">I'm Pranav, from India | 🔭 Software Engineer [SDE 1] | 📚 Exploring ML/AI Research</h2>
+<h2 align="left">🔭 Software Engineer [SDE 1] | 📚 Exploring ML/AI Research</h2>
 
 ###
 
