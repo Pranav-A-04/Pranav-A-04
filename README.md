@@ -2,19 +2,9 @@
 <h1 align="center">Hey, I'm Pranav 👋</h1>
 
 ###
-<table>
-  <tr>
-    <td>
-      <h2 align="left">🔭 Software Engineer [SDE 1] | 📚 Exploring ML/AI Research</h2>
-    </td>
-    <td width="20"></td>
-    <td>
-      <a href="https://linkedin.com/in/pranav-a-aa6b19250" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+<h2 align="left">🔭 Software Engineer [SDE 1] | 📚 Exploring ML/AI Research</h2>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
