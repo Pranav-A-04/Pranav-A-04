@@ -26,7 +26,7 @@
 
 ###
 
-<h5 align="left">I'm Pranav, from India<br><br>- 🔭 I’m working as Software Engineer (Backend) [SDE 1]<br>- 📚 I'm currently learning PyTorch<br>- ⚡ In my free time I build AI Research Projects</h5>
+<h5 align="left">I'm Pranav, from India<br><br>- 🔭 I’m working as Software Engineer (Backend) [SDE 1]<br>- 📚 I'm currently exploring ML/AI Research<br>- ⚡ In my free time I build AI Research Projects</h5>
 
 ###
 
